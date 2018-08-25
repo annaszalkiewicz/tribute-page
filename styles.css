@@ -27,9 +27,11 @@ h2 {
   margin-top: -40px !important;
 }
 img {
-  width: 100%;
+  display: block;
+  max-width: 100%;
 }
 figure {
+  width: 100%;
   background-color: #fff;
   font-size: 13px;
   padding: 10px;
